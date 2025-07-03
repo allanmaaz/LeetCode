@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/allanmaaz/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/allanmaaz/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/allanmaaz/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/allanmaaz/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/allanmaaz/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/allanmaaz/LeetCode/tree/master/0792-binary-search) |
 ## Two Pointers
@@ -44,6 +45,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/allanmaaz/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/allanmaaz/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/allanmaaz/LeetCode/tree/master/0792-binary-search) |
 ## Math
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/allanmaaz/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/allanmaaz/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
