@@ -4,22 +4,22 @@ class Solution {
         List<List<Integer>> result = new ArrayList<>();
         for(int i=0;i<nums.length-2;i++){
             if(i>0&&nums[i]==nums[i-1])continue;
-            int left=i+1,right=nums.length-1;
-            while(left<right){
-            int sum = nums[i]+nums[left]+nums[right];
+            int l=i+1,r=nums.length-1;
+            while(l<r){
+            int sum = nums[i]+nums[l]+nums[r];
             if(sum==0){
-result.add(Arrays.asList(nums[i],nums[left],nums[right]));
+result.add(Arrays.asList(nums[i],nums[l],nums[r]));
             
-            while(left<right && nums[left]==nums[left+1])left++;
-            while(left<right && nums[right]==nums[right-1])right--;
-            left++;
-            right--;
+            while(l<r && nums[l]==nums[l+1])l++;
+            while(l<r && nums[r]==nums[r-1])r--;
+            l++;
+            r--;
 
 
             }else if(sum<0){
-                left++;
+                l++;
             }else{
-                right--;
+                r--;
             
 
         }}}
