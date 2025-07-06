@@ -12,6 +12,7 @@
 | [0792-binary-search](https://github.com/allanmaaz/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/allanmaaz/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/allanmaaz/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/allanmaaz/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,8 +79,13 @@
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/allanmaaz/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/allanmaaz/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Counting
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/allanmaaz/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/allanmaaz/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
