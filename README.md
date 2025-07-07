@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/allanmaaz/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/allanmaaz/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/allanmaaz/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/allanmaaz/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/allanmaaz/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/allanmaaz/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Two Pointers
@@ -37,10 +38,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/allanmaaz/LeetCode/tree/master/0011-container-with-most-water) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/allanmaaz/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/allanmaaz/LeetCode/tree/master/0015-3sum) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/allanmaaz/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## String
 |  |
 | ------- |
@@ -88,4 +91,8 @@
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/allanmaaz/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/allanmaaz/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
