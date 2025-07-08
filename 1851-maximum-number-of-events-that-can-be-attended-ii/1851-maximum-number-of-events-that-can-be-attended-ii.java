@@ -1,46 +1,35 @@
 
 
 public class Solution {
-
     public int maxValue(int[][] events, int k) {
-        int numberOfEvents = events.length;
+        Arrays.sort(events, (a, b) -> Integer.compare(a[0], b[0]));
+        int n = events.length;
+        int[][] dp = new int[n + 1][k + 1];
 
-        Arrays.sort(events, (a, b) -> a[1] - b[1]);
-
-        int[][] dp = new int[numberOfEvents + 1][k + 1];
-
-        for (int eventIndex = 1; eventIndex <= numberOfEvents; eventIndex++) {
-            int startDay = events[eventIndex - 1][0];
-            int endDay = events[eventIndex - 1][1];
-            int value = events[eventIndex - 1][2];
-
-            int previousIndex = findPrevious(events, startDay);
-
-            for (int allowed = 1; allowed <= k; allowed++) {
-                int skip = dp[eventIndex - 1][allowed];
-                int take = dp[previousIndex + 1][allowed - 1] + value;
-                dp[eventIndex][allowed] = Math.max(skip, take);
+        for (int i = n - 1; i >= 0; i--) {
+            int nextIndex = findNext(events, i + 1, n - 1, events[i][1]);
+            for (int j = 1; j <= k; j++) {
+                dp[i][j] = Math.max(
+                    dp[i + 1][j],
+                    dp[nextIndex][j - 1] + events[i][2]
+                );
             }
         }
 
-        return dp[numberOfEvents][k];
+        return dp[0][k];
     }
 
-    private int findPrevious(int[][] events, int targetStart) {
-        int low = 0;
-        int high = events.length - 1;
-        int answer = -1;
-
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            if (events[mid][1] < targetStart) {
-                answer = mid;
-                low = mid + 1;
+    private int findNext(int[][] events, int left, int right, int endDay) {
+        int res = events.length;
+        while (left <= right) {
+            int mid = (left + right) / 2;
+            if (events[mid][0] > endDay) {
+                res = mid;
+                right = mid - 1;
             } else {
-                high = mid - 1;
+                left = mid + 1;
             }
         }
-
-        return answer;
+        return res;
     }
 }
