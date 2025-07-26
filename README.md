@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/allanmaaz/LeetCode/tree/master/0125-valid-palindrome) |
+| [1023-time-based-key-value-store](https://github.com/allanmaaz/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/allanmaaz/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/allanmaaz/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/allanmaaz/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/allanmaaz/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/allanmaaz/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Math
 |  |
@@ -95,6 +97,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1023-time-based-key-value-store](https://github.com/allanmaaz/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/allanmaaz/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/allanmaaz/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Counting
@@ -104,6 +107,7 @@
 ## Design
 |  |
 | ------- |
+| [1023-time-based-key-value-store](https://github.com/allanmaaz/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/allanmaaz/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Heap (Priority Queue)
 |  |
