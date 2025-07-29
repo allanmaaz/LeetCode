@@ -63,6 +63,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/allanmaaz/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/allanmaaz/LeetCode/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/allanmaaz/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1023-time-based-key-value-store](https://github.com/allanmaaz/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Binary Search
 |  |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/allanmaaz/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/allanmaaz/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1023-time-based-key-value-store](https://github.com/allanmaaz/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/allanmaaz/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/allanmaaz/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/allanmaaz/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/allanmaaz/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/allanmaaz/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Enumeration
 |  |
