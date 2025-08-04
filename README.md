@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/allanmaaz/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/allanmaaz/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/allanmaaz/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/allanmaaz/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -68,6 +69,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/allanmaaz/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/allanmaaz/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/allanmaaz/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/allanmaaz/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -129,4 +131,8 @@
 |  |
 | ------- |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/allanmaaz/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/allanmaaz/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
