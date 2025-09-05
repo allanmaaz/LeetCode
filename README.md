@@ -85,6 +85,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/allanmaaz/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/allanmaaz/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/allanmaaz/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -130,9 +131,14 @@
 ## Enumeration
 |  |
 | ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/allanmaaz/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/allanmaaz/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/allanmaaz/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/allanmaaz/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
