@@ -15,6 +15,7 @@
 | [0792-binary-search](https://github.com/allanmaaz/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/allanmaaz/LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/allanmaaz/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/allanmaaz/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/allanmaaz/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/allanmaaz/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/allanmaaz/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -82,6 +83,7 @@
 ## Math
 |  |
 | ------- |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/allanmaaz/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/allanmaaz/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/allanmaaz/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Bit Manipulation
