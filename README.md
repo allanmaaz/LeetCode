@@ -37,6 +37,7 @@
 | [0042-trapping-rain-water](https://github.com/allanmaaz/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/allanmaaz/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/allanmaaz/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/allanmaaz/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Stack
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/allanmaaz/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/allanmaaz/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/allanmaaz/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/allanmaaz/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
