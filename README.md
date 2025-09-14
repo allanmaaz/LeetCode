@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/allanmaaz/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/allanmaaz/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/allanmaaz/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0239-sliding-window-maximum](https://github.com/allanmaaz/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0792-binary-search](https://github.com/allanmaaz/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/allanmaaz/LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/allanmaaz/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -131,12 +132,14 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/allanmaaz/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/allanmaaz/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/allanmaaz/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/allanmaaz/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/allanmaaz/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/allanmaaz/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/allanmaaz/LeetCode/tree/master/0567-permutation-in-string) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/allanmaaz/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -156,5 +159,10 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/allanmaaz/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/allanmaaz/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/allanmaaz/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
