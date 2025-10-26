@@ -31,6 +31,7 @@
 | [0042-trapping-rain-water](https://github.com/allanmaaz/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/allanmaaz/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/allanmaaz/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/allanmaaz/LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/allanmaaz/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/allanmaaz/LeetCode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/allanmaaz/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/allanmaaz/LeetCode/tree/master/0143-reorder-list) |
 | [0883-car-fleet](https://github.com/allanmaaz/LeetCode/tree/master/0883-car-fleet) |
 ## Monotonic Stack
 |  |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/allanmaaz/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/allanmaaz/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/allanmaaz/LeetCode/tree/master/0206-reverse-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/allanmaaz/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/allanmaaz/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -174,5 +177,6 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/allanmaaz/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/allanmaaz/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/allanmaaz/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/allanmaaz/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
