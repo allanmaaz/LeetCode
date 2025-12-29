@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/allanmaaz/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/allanmaaz/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/allanmaaz/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/allanmaaz/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/allanmaaz/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/allanmaaz/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/allanmaaz/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/allanmaaz/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/allanmaaz/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/allanmaaz/LeetCode/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/allanmaaz/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -183,4 +185,8 @@
 | [0141-linked-list-cycle](https://github.com/allanmaaz/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/allanmaaz/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/allanmaaz/LeetCode/tree/master/0206-reverse-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/allanmaaz/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
