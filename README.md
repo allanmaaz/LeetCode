@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/allanmaaz/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/allanmaaz/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/allanmaaz/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/allanmaaz/LeetCode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/allanmaaz/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0792-binary-search](https://github.com/allanmaaz/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/allanmaaz/LeetCode/tree/master/0883-car-fleet) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/allanmaaz/LeetCode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/allanmaaz/LeetCode/tree/master/0169-majority-element) |
 | [0883-car-fleet](https://github.com/allanmaaz/LeetCode/tree/master/0883-car-fleet) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/allanmaaz/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/allanmaaz/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -131,6 +133,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/allanmaaz/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/allanmaaz/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/allanmaaz/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/allanmaaz/LeetCode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/allanmaaz/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/allanmaaz/LeetCode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/allanmaaz/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -139,6 +142,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/allanmaaz/LeetCode/tree/master/0169-majority-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/allanmaaz/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Design
 |  |
@@ -168,6 +172,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/allanmaaz/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/allanmaaz/LeetCode/tree/master/0169-majority-element) |
 ## Brainteaser
 |  |
 | ------- |
