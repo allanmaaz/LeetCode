@@ -16,6 +16,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/allanmaaz/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/allanmaaz/LeetCode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/allanmaaz/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0705-design-hashset](https://github.com/allanmaaz/LeetCode/tree/master/0705-design-hashset) |
 | [0792-binary-search](https://github.com/allanmaaz/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/allanmaaz/LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/allanmaaz/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -136,6 +137,7 @@
 | [0169-majority-element](https://github.com/allanmaaz/LeetCode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/allanmaaz/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/allanmaaz/LeetCode/tree/master/0567-permutation-in-string) |
+| [0705-design-hashset](https://github.com/allanmaaz/LeetCode/tree/master/0705-design-hashset) |
 | [1023-time-based-key-value-store](https://github.com/allanmaaz/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/allanmaaz/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/allanmaaz/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -147,6 +149,7 @@
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/allanmaaz/LeetCode/tree/master/0705-design-hashset) |
 | [1023-time-based-key-value-store](https://github.com/allanmaaz/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/allanmaaz/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Heap (Priority Queue)
@@ -194,8 +197,13 @@
 | [0141-linked-list-cycle](https://github.com/allanmaaz/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/allanmaaz/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/allanmaaz/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/allanmaaz/LeetCode/tree/master/0705-design-hashset) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/allanmaaz/LeetCode/tree/master/0014-longest-common-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/allanmaaz/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
