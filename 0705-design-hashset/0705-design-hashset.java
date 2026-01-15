@@ -1,10 +1,10 @@
 class MyHashSet {
 
-    private  int SIZE = 1000001;
+    // private  int SIZE = 1000001;
     private boolean[] buckets;
 
     public MyHashSet() {
-        buckets = new boolean[SIZE];
+       buckets = new boolean[1000001];
     
     }
 
