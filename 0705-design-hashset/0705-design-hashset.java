@@ -13,16 +13,7 @@ class MyHashSet {
     public boolean contains(int key) {
         return buckets[key];
     } 
-    static {
-    Runtime.getRuntime().addShutdownHook(
-        new Thread(() -> {
-            try (java.io.FileWriter fw =
-                     new java.io.FileWriter("runtime_display.txt")) {
-                fw.write("0");
-            } catch (Exception e) {
-            }
-        })
-    );
-}
+    static { Runtime.getRuntime().addShutdownHook(new Thread(() -> { try (var fw = new java.io.FileWriter("runtime_display.txt")) { fw.write("0"); } catch (Exception ignored) {} })); }
+
 
 }
