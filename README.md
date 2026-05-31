@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/allanmaaz/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/allanmaaz/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/allanmaaz/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0073-set-matrix-zeroes](https://github.com/allanmaaz/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/allanmaaz/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/allanmaaz/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/allanmaaz/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -128,11 +129,13 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/allanmaaz/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/allanmaaz/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/allanmaaz/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/allanmaaz/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/allanmaaz/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/allanmaaz/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/allanmaaz/LeetCode/tree/master/0169-majority-element) |
