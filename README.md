@@ -14,6 +14,7 @@
 | [0053-maximum-subarray](https://github.com/allanmaaz/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/allanmaaz/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/allanmaaz/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/allanmaaz/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/allanmaaz/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/allanmaaz/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/allanmaaz/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -42,6 +43,7 @@
 | [0027-remove-element](https://github.com/allanmaaz/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/allanmaaz/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/allanmaaz/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/allanmaaz/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/allanmaaz/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/allanmaaz/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/allanmaaz/LeetCode/tree/master/0143-reorder-list) |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/allanmaaz/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/allanmaaz/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/allanmaaz/LeetCode/tree/master/0169-majority-element) |
 | [0883-car-fleet](https://github.com/allanmaaz/LeetCode/tree/master/0883-car-fleet) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/allanmaaz/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
