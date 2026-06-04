@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/allanmaaz/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/allanmaaz/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/allanmaaz/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/allanmaaz/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/allanmaaz/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/allanmaaz/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/allanmaaz/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -111,6 +112,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/allanmaaz/LeetCode/tree/master/0048-rotate-image) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/allanmaaz/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/allanmaaz/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/allanmaaz/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -138,6 +140,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/allanmaaz/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/allanmaaz/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/allanmaaz/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
