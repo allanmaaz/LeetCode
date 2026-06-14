@@ -23,6 +23,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/allanmaaz/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/allanmaaz/LeetCode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/allanmaaz/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/allanmaaz/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0705-design-hashset](https://github.com/allanmaaz/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/allanmaaz/LeetCode/tree/master/0706-design-hashmap) |
 | [0792-binary-search](https://github.com/allanmaaz/LeetCode/tree/master/0792-binary-search) |
@@ -50,6 +51,7 @@
 | [0141-linked-list-cycle](https://github.com/allanmaaz/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/allanmaaz/LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/allanmaaz/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/allanmaaz/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/allanmaaz/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/allanmaaz/LeetCode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
@@ -107,6 +109,7 @@
 | [0074-search-a-2d-matrix](https://github.com/allanmaaz/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/allanmaaz/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/allanmaaz/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/allanmaaz/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/allanmaaz/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/allanmaaz/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/allanmaaz/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -122,6 +125,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/allanmaaz/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/allanmaaz/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/allanmaaz/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/allanmaaz/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
